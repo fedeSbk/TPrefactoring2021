@@ -1,5 +1,4 @@
 initialize
 initialize
 	isLike := true.
-	timstamp := DateAndTime now.
-	
+	timstamp := DateAndTime now

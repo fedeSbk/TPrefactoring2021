@@ -1,4 +1,4 @@
 adding
 addTopic: aTopic
 	topics add: aTopic.
-	aTopic addQuestion: self.
+	aTopic addQuestion: self

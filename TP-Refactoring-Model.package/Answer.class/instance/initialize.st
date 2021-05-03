@@ -1,4 +1,4 @@
 initialize
 initialize
 	votes := OrderedCollection new.
-	timestamp := DateAndTime now.
+	timestamp := DateAndTime now

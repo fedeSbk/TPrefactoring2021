@@ -1,3 +1,3 @@
 initialize
 initialize
-	questions := OrderedCollection new.
+	questions := OrderedCollection new

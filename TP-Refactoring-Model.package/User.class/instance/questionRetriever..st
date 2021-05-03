@@ -1,3 +1,3 @@
 private
 questionRetriever: aQuestionRetriever
-	questionRetriever := aQuestionRetriever.
+	questionRetriever := aQuestionRetriever

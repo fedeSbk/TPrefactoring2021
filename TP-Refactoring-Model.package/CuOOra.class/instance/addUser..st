@@ -1,3 +1,3 @@
 adding
 addUser: aUser
-	users add: aUser 
+	users add: aUser

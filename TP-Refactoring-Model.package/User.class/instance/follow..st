@@ -1,3 +1,3 @@
 accessing
 follow: aUser
-	following add: aUser 
+	following add: aUser

@@ -1,3 +1,3 @@
 accesing
 cuoora: aCuooraInstance
-	cuoora := aCuooraInstance 
+	cuoora := aCuooraInstance

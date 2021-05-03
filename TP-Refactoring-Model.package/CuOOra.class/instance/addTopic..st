@@ -1,3 +1,3 @@
 adding
 addTopic: aTopic
-	topics add: aTopic 
+	topics add: aTopic

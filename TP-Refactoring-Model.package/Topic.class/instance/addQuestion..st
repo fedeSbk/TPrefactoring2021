@@ -1,3 +1,3 @@
 accessing
 addQuestion: aQuetion
-	questions add: aQuetion 
+	questions add: aQuetion
